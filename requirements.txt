@@ -1,0 +1,8 @@
+Django==3.0.10
+pyodbc==4.0.27
+django-mssql-backend==2.8.1
+django-mssql==1.8
+djangorestframework==3.12.2
+djangorestframework-simplejwt==4.6.0
+pyodbc==4.0.27
+django-cors-headers==3.6.0
